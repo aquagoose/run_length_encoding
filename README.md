@@ -3,7 +3,7 @@
 ## Commands
 **run_length_encoding supports 2 different commands.**
 ### compress(text)
-Fairly simple. All you need to do is write compress(TEXT_HERE_) and the text (*string*) you want to compress goes in the brackets.
+Fairly simple. All you need to do is write compress(TEXT_HERE_) and the text (*string*) you want to compress goes in the brackets.\n
 *This command needs to be assigned to a variable or used in the print() command*
 E.G. print(compress("Hello!")
 ### decompress(text, mode)
